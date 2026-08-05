@@ -12,7 +12,7 @@
 
 Heyy, I’m Huma - a cybersecurity student learning defensive security, ethical hacking, and security automation.  
 -  
-🚧 Computer security has always been one of my main interests, trying to figure out how systems actually work internally. It would tingle my brain in a way lol.   
+🚧 Computer security has always been one of my main interests, trying to figure out how systems actually work internally and learning remediation techniques for major problems. It would tingle my brain in a way lol.   
 **Oh, and I love cheesecake :3**
 
 🔭 &nbsp;I'm currently working on **building a **Security Automation Pipeline** in my security-automation-learning repo using Python, log analysis, threat intelligence, databases, and Docker.**  
