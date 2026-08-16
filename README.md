@@ -17,6 +17,7 @@ Heyy, I’m Huma - a cybersecurity student learning defensive security, ethical 
 
 🔭 &nbsp;I'm currently working on **building a **Security Automation Pipeline** in my security-automation-learning repo using Python, log analysis, threat intelligence, databases, and Docker.**  
 🤝 &nbsp;I'm also collaborating on a **Git Secret & Credential Leak Scanner**, where I built the detection engine using regex-based secret detection, Shannon entropy analysis, false-positive filtering, allowlisting, directory scanning, and automated tests.
+
 🌱 &nbsp;I'm currently learning **pentesting techniques, wazuh (for my next project), python automation etc.**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **Whenever I’m stuck on a problem for days, the solution somehow comes to me in the most inconvenient place possible.**
