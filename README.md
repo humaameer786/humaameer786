@@ -114,25 +114,14 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
 ### 🛠️ tools & technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&perline=6" alt="Core tools" />
-</p>
-
-<p align="center">
-  <kbd>✦ Python</kbd>
-  <kbd>☾ OWASP ZAP</kbd>
-  <kbd>✧ Nmap</kbd>
-  <kbd>⋆ Postman</kbd>
-  <kbd>☾ VirusTotal</kbd>
-  <kbd>✦ SQL</kbd>
+  ✦ <strong>Python</strong>　☾ <strong>OWASP ZAP</strong>　✧ <strong>Nmap</strong>　⋆ <strong>Postman</strong><br>
+  ☾ <strong>VirusTotal</strong>　✦ <strong>SQL</strong>　⋆ <strong>Git/GitHub</strong>　✧ <strong>Linux</strong>
 </p>
 
 #### 🌱 currently learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Active%20Directory-D98CB5?style=flat-square" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Group%20Policy-9A82B8?style=flat-square" alt="Group Policy" />
-  <img src="https://img.shields.io/badge/PostgreSQL-D98CB5?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/JSONB-D9B46C?style=flat-square" alt="JSONB" />
+  ☾ Active Directory　✦ Group Policy　⋆ PostgreSQL　✧ JSONB
 </p>
 
 <br>
