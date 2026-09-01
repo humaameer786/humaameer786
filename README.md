@@ -60,6 +60,8 @@ And yes, I still really like cheesecake :3
 - 🖥️ Learning **Active Directory, Group Policy, Windows administration, and IT troubleshooting**
 - 🌐 Improving my practical **web/API security testing** through projects and structured assessments
 
+<br>
+
 <p align="center">
   - - - - - - - - ✦ ☾ 🐈‍⬛ ☾ ✦ - - - - - - - -
 </p>
