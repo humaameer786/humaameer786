@@ -55,156 +55,75 @@ And yes, I still really like cheesecake :3
 
 ### ✦ featured projects
 
-<table width="100%">
-<tr>
+#### 🔎 Web & API Penetration Test
 
-<td width="50%" valign="top" align="left">
+External black-box security assessment focused on client-side JavaScript, API mapping, HMAC-SHA256 request signing, WAF behaviour, and security controls.
 
-<h4>🔎 Web & API Penetration Test</h4>
+🌐 Mapped **20+ subdomains and 50+ backend API routes**  
+🔐 Reproduced HMAC-SHA256 request signing using Python and Web Crypto  
+🛡️ Validated WAF and authentication controls and documented remediation
 
-<p>
-External black-box assessment focused on client-side JavaScript, API mapping,
-HMAC-SHA256 request signing, WAF behaviour, and security controls.
-</p>
+[View case study →](https://github.com/humaameer786/web-api-penetration-test-case-study)
 
-<p><strong>Highlights</strong></p>
+<p align="center">⋆｡°✩ ☾ ✩°｡⋆</p>
 
-<ul>
-  <li>Mapped 20+ subdomains and 50+ backend API routes</li>
-  <li>Reproduced HMAC-SHA256 request signing in Python/Web Crypto</li>
-  <li>Validated WAF and authentication controls and documented remediation</li>
-</ul>
+#### 🔐 Git Secret & Credential Leak Scanner
 
-<p>
-<a href="https://github.com/humaameer786/web-api-penetration-test-case-study">
-View case study →
-</a>
-</p>
+A two-developer Python DevSecOps project for detecting accidentally exposed credentials before they reach version control.
 
-</td>
+🧠 Owned the project's **detection engine**  
+🧪 Built regex-based detection, Shannon entropy analysis, and false-positive reduction  
+✅ Wrote **27 detection tests** within the project's **58-test suite**
 
-<td width="50%" valign="top" align="left">
+[View project →](https://github.com/haseeb2006-bit/credential-leak-scanner)
 
-<h4>🔐 Credential Leak Scanner</h4>
+<p align="center">⋆｡°✩ ☾ ✩°｡⋆</p>
 
-<p>
-Two-developer Python DevSecOps project for detecting accidentally exposed
-credentials before they reach version control.
-</p>
+#### ⚙️ Security Automation Modules
 
-<p><strong>My contribution</strong></p>
+Hands-on Python security modules I'm building before combining the concepts into a full security automation pipeline.
 
-<ul>
-  <li>Owned the project's detection engine</li>
-  <li>Built regex, Shannon entropy, and false-positive detection logic</li>
-  <li>Wrote 27 detection tests within the project's 58-test suite</li>
-</ul>
+🐍 **6 completed modules** so far  
+🔎 Worked with credential-stuffing detection, multi-source event correlation, SQLite, and VirusTotal threat intelligence  
+🗄️ Currently learning **PostgreSQL and JSONB**
 
-<p>
-<a href="https://github.com/haseeb2006-bit/credential-leak-scanner">
-View project →
-</a>
-</p>
+[View project →](https://github.com/humaameer786/security-automation-learning)
 
-</td>
+<p align="center">⋆｡°✩ ☾ ✩°｡⋆</p>
 
-</tr>
-</table>
+#### 🛡️ Cybersecurity Internship Projects
 
-<br>
+Three structured cybersecurity tasks covering passive vulnerability assessment, phishing analysis, and read-only API security testing.
 
-<table width="100%">
-<tr>
+📋 Documented **8 web findings**, including **2 High-risk issues**  
+🎣 Analysed **4 phishing samples** and tested **3 API request scenarios**  
+📝 Produced **3 evidence-backed security reports**
 
-<td width="50%" valign="top" align="left">
-
-<h4>⚙️ Security Automation Modules</h4>
-
-<p>
-Hands-on Python security modules I'm building before combining the concepts
-into a full security automation pipeline.
-</p>
-
-<p><strong>Current progress</strong></p>
-
-<ul>
-  <li>6 completed security automation modules</li>
-  <li>Detection, log correlation, SQLite, and threat-intelligence work</li>
-  <li>Currently learning PostgreSQL and JSONB</li>
-</ul>
-
-<p>
-<a href="https://github.com/humaameer786/security-automation-learning">
-View project →
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top" align="left">
-
-<h4>🛡️ Cybersecurity Internship Projects</h4>
-
-<p>
-Three structured cybersecurity tasks covering vulnerability assessment,
-phishing analysis, and read-only API security testing.
-</p>
-
-<p><strong>Highlights</strong></p>
-
-<ul>
-  <li>Documented 8 web findings, including 2 High-risk issues</li>
-  <li>Analysed 4 phishing samples and tested 3 API request scenarios</li>
-  <li>Produced 3 evidence-backed security reports</li>
-</ul>
-
-<p>
-<a href="https://github.com/humaameer786?tab=repositories">
-View repositories →
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
+[View my repositories →](https://github.com/humaameer786?tab=repositories)
 
 ---
 
 ### 🛠️ tools & technologies
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&perline=6"
-    alt="Core tools"
-  />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&perline=6" alt="Core tools" />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/OWASP%20ZAP-d98cb5?style=flat-square"
-    alt="OWASP ZAP"
-  />
-  <img
-    src="https://img.shields.io/badge/Nmap-e3b341?style=flat-square"
-    alt="Nmap"
-  />
-  <img
-    src="https://img.shields.io/badge/Postman-d98cb5?style=flat-square&logo=postman&logoColor=white"
-    alt="Postman"
-  />
-  <img
-    src="https://img.shields.io/badge/VirusTotal-e3b341?style=flat-square&logo=virustotal&logoColor=white"
-    alt="VirusTotal"
-  />
-  <img
-    src="https://img.shields.io/badge/Active%20Directory-d98cb5?style=flat-square"
-    alt="Active Directory"
-  />
-  <img
-    src="https://img.shields.io/badge/SQL-e3b341?style=flat-square"
-    alt="SQL"
-  />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-D98CB5?style=flat-square" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-9A82B8?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Postman-D98CB5?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VirusTotal-9A82B8?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/SQL-D9B46C?style=flat-square" alt="SQL" />
+</p>
+
+#### 🌱 currently learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-D98CB5?style=flat-square" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Group%20Policy-9A82B8?style=flat-square" alt="Group Policy" />
+  <img src="https://img.shields.io/badge/PostgreSQL-D98CB5?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JSONB-D9B46C?style=flat-square" alt="JSONB" />
 </p>
 
 ---
