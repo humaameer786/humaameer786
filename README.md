@@ -22,13 +22,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/humaa-faisal-ameer/">
-    <kbd><big>☾ LinkedIn ✦</big></kbd>
+    <img
+      height="28"
+      src="https://img.shields.io/badge/☾%20LinkedIn%20✦-2B2438?style=flat-square"
+      alt="LinkedIn"
+    />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;
 
   <a href="mailto:huma.ameer.me@gmail.com">
-    <kbd><big>✉ Email ⋆</big></kbd>
+    <img
+      height="28"
+      src="https://img.shields.io/badge/✉%20Email%20⋆-3A2D45?style=flat-square"
+      alt="Email"
+    />
   </a>
 </p>
 
