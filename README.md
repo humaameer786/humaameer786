@@ -21,18 +21,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/humaa-faisal-ameer/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-d98cb5?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:huma.ameer.me@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-e3b341?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/humaa-faisal-ameer/"><kbd>☾ LinkedIn ✦</kbd></a>
+  &nbsp;
+  <a href="mailto:huma.ameer.me@gmail.com"><kbd>✉ Email ⋆</kbd></a>
 </p>
 
 <br>
@@ -127,11 +118,12 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-D98CB5?style=flat-square" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Nmap-9A82B8?style=flat-square" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Postman-D98CB5?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VirusTotal-9A82B8?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal" />
-  <img src="https://img.shields.io/badge/SQL-D9B46C?style=flat-square" alt="SQL" />
+  <kbd>✦ Python</kbd>
+  <kbd>☾ OWASP ZAP</kbd>
+  <kbd>✧ Nmap</kbd>
+  <kbd>⋆ Postman</kbd>
+  <kbd>☾ VirusTotal</kbd>
+  <kbd>✦ SQL</kbd>
 </p>
 
 #### 🌱 currently learning
