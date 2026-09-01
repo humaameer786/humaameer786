@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Sacramento&weight=600&size=42&pause=999999&color=D98CB5&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hello!+I'm+Huma+%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Bitcount+Ink&weight=600&size=42&pause=999999&color=D98CB5&center=true&vCenter=true&repeat=false&width=520&height=70&lines=Hello!+I'm+Huma+%F0%9F%91%8B"
     alt="Hello! I'm Huma 👋"
   />
 </p>
