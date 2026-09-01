@@ -52,106 +52,117 @@ And yes, I still really like cheesecake :3
 
 ### ✦ featured projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<strong>🔎 Web & API Penetration Test</strong>
+<td width="50%" valign="top" align="left">
 
-<br><br>
+<h4>🔎 Web & API Penetration Test</h4>
 
-External black-box security assessment involving client-side JavaScript analysis, API mapping, HMAC-SHA256 request signing, WAF testing, and remediation reporting.
+<p>
+External black-box assessment focused on client-side JavaScript, API mapping,
+HMAC-SHA256 request signing, WAF behaviour, and security controls.
+</p>
 
-<br><br>
+<p><strong>Highlights</strong></p>
 
-<strong>Highlights</strong>
 <ul>
-  <li>20+ subdomains mapped</li>
-  <li>50+ backend API routes identified</li>
-  <li>Reproduced client-side request signing</li>
+  <li>Mapped 20+ subdomains and 50+ backend API routes</li>
+  <li>Reproduced HMAC-SHA256 request signing in Python/Web Crypto</li>
+  <li>Validated WAF and authentication controls and documented remediation</li>
 </ul>
 
-<a href="https://github.com/humaameer786/web-api-penetration-test-case-study">→ View case study</a>
+<p>
+<a href="https://github.com/humaameer786/web-api-penetration-test-case-study">
+View case study →
+</a>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-<strong>🔐 Credential Leak Scanner</strong>
+<h4>🔐 Credential Leak Scanner</h4>
 
-<br><br>
+<p>
+Two-developer Python DevSecOps project for detecting accidentally exposed
+credentials before they reach version control.
+</p>
 
-Two-developer Python DevSecOps project for detecting secrets before they reach version control.
+<p><strong>My contribution</strong></p>
 
-<br><br>
-
-<strong>My contribution</strong>
 <ul>
-  <li>Detection engine</li>
-  <li>Regex-based secret detection</li>
-  <li>Shannon entropy analysis</li>
-  <li>False-positive reduction</li>
-  <li>27 detection-engine tests</li>
+  <li>Owned the project's detection engine</li>
+  <li>Built regex, Shannon entropy, and false-positive detection logic</li>
+  <li>Wrote 27 detection tests within the project's 58-test suite</li>
 </ul>
 
-<a href="https://github.com/haseeb2006-bit/credential-leak-scanner">→ View project</a>
+<p>
+<a href="https://github.com/haseeb2006-bit/credential-leak-scanner">
+View project →
+</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<strong>⚙️ Security Automation Modules</strong>
+<td width="50%" valign="top" align="left">
 
-<br><br>
+<h4>⚙️ Security Automation Modules</h4>
 
-Hands-on Python security modules I'm building before combining the concepts into a full security automation pipeline.
+<p>
+Hands-on Python security modules I'm building before combining the concepts
+into a full security automation pipeline.
+</p>
 
-<br><br>
+<p><strong>Current progress</strong></p>
 
-<strong>6 completed modules so far</strong>
 <ul>
-  <li>Authentication-log analysis</li>
-  <li>Credential-stuffing detection</li>
-  <li>Multi-source event correlation</li>
-  <li>SQLite event storage</li>
-  <li>VirusTotal threat intelligence</li>
+  <li>6 completed security automation modules</li>
+  <li>Detection, log correlation, SQLite, and threat-intelligence work</li>
+  <li>Currently learning PostgreSQL and JSONB</li>
 </ul>
 
-Currently working with <strong>PostgreSQL and JSONB</strong>.
-
-<br><br>
-
-<a href="https://github.com/humaameer786/security-automation-learning">→ View project</a>
+<p>
+<a href="https://github.com/humaameer786/security-automation-learning">
+View project →
+</a>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-<strong>🛡️ Cybersecurity Internship Projects</strong>
+<h4>🛡️ Cybersecurity Internship Projects</h4>
 
-<br><br>
+<p>
+Three structured cybersecurity tasks covering vulnerability assessment,
+phishing analysis, and read-only API security testing.
+</p>
 
-Three structured cybersecurity tasks covering:
+<p><strong>Highlights</strong></p>
 
 <ul>
-  <li>Passive vulnerability assessment</li>
-  <li>Phishing email analysis</li>
-  <li>API security risk analysis</li>
+  <li>Documented 8 web findings, including 2 High-risk issues</li>
+  <li>Analysed 4 phishing samples and tested 3 API request scenarios</li>
+  <li>Produced 3 evidence-backed security reports</li>
 </ul>
 
-Each includes evidence, findings, risk classification, and reporting.
-
-<br><br>
-
-<a href="https://github.com/humaameer786?tab=repositories">→ View repositories</a>
+<p>
+<a href="https://github.com/humaameer786?tab=repositories">
+View repositories →
+</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
