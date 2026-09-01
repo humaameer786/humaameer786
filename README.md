@@ -21,9 +21,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/humaa-faisal-ameer/"><kbd>☾ LinkedIn ✦</kbd></a>
-  &nbsp;
-  <a href="mailto:huma.ameer.me@gmail.com"><kbd>✉ Email ⋆</kbd></a>
+  <a href="https://www.linkedin.com/in/humaa-faisal-ameer/">
+    <kbd><big>☾ LinkedIn ✦</big></kbd>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="mailto:huma.ameer.me@gmail.com">
+    <kbd><big>✉ Email ⋆</big></kbd>
+  </a>
 </p>
 
 <br>
