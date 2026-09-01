@@ -23,18 +23,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/humaa-faisal-ameer/">
     <img
-      height="28"
-      src="https://img.shields.io/badge/☾%20LinkedIn%20✦-2B2438?style=flat-square"
+      src="https://img.shields.io/badge/LinkedIn-d98cb5?style=flat-square&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-
-  &nbsp;
-
   <a href="mailto:huma.ameer.me@gmail.com">
     <img
-      height="28"
-      src="https://img.shields.io/badge/✉%20Email%20⋆-3A2D45?style=flat-square"
+      src="https://img.shields.io/badge/Email-e3b341?style=flat-square&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
