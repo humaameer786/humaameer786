@@ -1,67 +1,178 @@
 <p align="center">
-  <a href="https://github.com/humaameer786">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d98cb5&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Huma%20%F0%9F%91%8B" alt="Hello! I&#39;m Huma 👋" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d98cb5&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Huma%20%F0%9F%91%8B"
+    alt="Hello! I'm Huma 👋"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E3B341&center=true&vCenter=true&width=900&height=44&lines=Cybersecurity+Student+%F0%9F%94%90;Web+%26+API+Security+%7C+Python+Automation;Learning%2C+building%2C+breaking+things+ethically+%3A3"
+    alt="Typing intro"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/humaa-faisal-ameer/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-d98cb5?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:huma.ameer.me@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-e3b341?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
+---
+
+### 🌷 about me
+
+I'm a BSc Cybersecurity student who likes understanding how systems work, finding where things can go wrong, and figuring out how to make them safer.
+
+My main interests are **web & API security, penetration testing, security analysis, digital forensics, and Python security automation**.
+
+I'm also learning **Active Directory and IT support fundamentals** because I'm pretty realistic about where careers start, and I want a strong understanding of the systems I'll eventually be helping secure.
+
+And yes, I still really like cheesecake :3
+
+---
+
+### 🧩 what I'm working on
+
+- 🔐 Building and testing the detection engine for a collaborative **Git Secret & Credential Leak Scanner**
+- 🐍 Developing individual **security automation modules** in Python before combining them into a larger automation pipeline
+- 🖥️ Learning **Active Directory, Group Policy, Windows administration, and IT troubleshooting**
+- 🌐 Improving my practical **web/API security testing** through projects and structured assessments
+
+---
+
+### ✦ featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔎 Web & API Penetration Test
+
+External black-box security assessment involving client-side JavaScript analysis, API mapping, HMAC-SHA256 request signing, WAF testing, and remediation reporting.
+
+**Highlights**
+- 20+ subdomains mapped
+- 50+ backend API routes identified
+- Reproduced client-side request signing
+
+[→ View case study](https://github.com/humaameer786/web-api-penetration-test-case-study)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔐 Credential Leak Scanner
+
+Two-developer Python DevSecOps project for detecting secrets before they reach version control.
+
+**My part**
+- Detection engine
+- Regex + Shannon entropy
+- False-positive filtering
+- Recursive repository scanning
+- 27 detection-engine tests
+
+[→ View project](https://github.com/haseeb2006-bit/credential-leak-scanner)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ Security Automation Modules
+
+A growing collection of Python security exercises I'm building before creating my full automation pipeline.
+
+So far I've worked with:
+- Authentication-log analysis
+- Credential-stuffing detection
+- Event correlation
+- SQLite
+- VirusTotal threat intelligence
+
+[→ View project](https://github.com/humaameer786/security-automation-learning)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ Cybersecurity Internship Projects
+
+Three structured security tasks covering:
+
+- Passive vulnerability assessment
+- Phishing email analysis
+- API security risk analysis
+
+Each includes evidence, findings, risk classification, and reporting.
+
+[→ View repositories](https://github.com/humaameer786?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ tools & technologies
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Cybersecurity%20Student%20%7C%20Aspiring%20SOC%20Analyst;Building%20skills%20in%20Python%2C%20Security%20Automation%20%26%20Ethical%20Hacking" alt="Typing headlines" />
+  <img
+    src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&perline=6"
+    alt="Core tools"
+  />
 </p>
-
-### 🚀 About Me
-
-Heyy, I’m Huma - a cybersecurity student learning defensive security, ethical hacking, and security automation.  
--  
-🚧 Computer security has always been one of my main interests, trying to figure out how systems actually work internally and learning remediation techniques for major problems. It would tingle my brain in a way lol.   
-**Oh, and I love cheesecake :3**
-
-🔭 &nbsp;I'm currently working on **building a **Security Automation Pipeline** in my security-automation-learning repo using Python, log analysis, threat intelligence, databases, and Docker.**  
-🤝 &nbsp;I'm also collaborating on a **Git Secret & Credential Leak Scanner**, where I built the detection engine using regex-based secret detection, Shannon entropy analysis, false-positive filtering, allowlisting, directory scanning, and automated tests.
-
-🌱 &nbsp;I'm currently learning **pentesting techniques, wazuh (for my next project), python automation etc.**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **Whenever I’m stuck on a problem for days, the solution somehow comes to me in the most inconvenient place possible.**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/humaa-faisal-ameer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/staffofhuma" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:huma.ameer.me@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaameer786&bg_color=00000000&color=d98cb5&line=d98cb5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img
+    src="https://img.shields.io/badge/OWASP%20ZAP-d98cb5?style=flat-square"
+    alt="OWASP ZAP"
+  />
+  <img
+    src="https://img.shields.io/badge/Nmap-e3b341?style=flat-square"
+    alt="Nmap"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-d98cb5?style=flat-square&logo=postman&logoColor=white"
+    alt="Postman"
+  />
+  <img
+    src="https://img.shields.io/badge/VirusTotal-e3b341?style=flat-square&logo=virustotal&logoColor=white"
+    alt="VirusTotal"
+  />
+  <img
+    src="https://img.shields.io/badge/Active%20Directory-d98cb5?style=flat-square"
+    alt="Active Directory"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL-e3b341?style=flat-square"
+    alt="SQL"
+  />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/humaameer786">humaameer786</a></i></p>
+
+### 📈 github activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=humaameer786&bg_color=00000000&color=d98cb5&line=d98cb5&point=e3b341&area=true&hide_border=true"
+    alt="Huma's GitHub activity graph"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>still learning, still building 🌱</i>
+</p>
