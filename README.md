@@ -1,9 +1,12 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d98cb5&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Huma%20%F0%9F%91%8B"
-    alt="Hello! I'm Huma 👋"
+    src="./assets/banner.png"
+    width="100%"
+    alt="Dreamy moonlit cybersecurity workspace with a black cat"
   />
 </p>
+
+<h1 align="center">Hello! I'm Huma 👋</h1>
 
 <p align="center">
   <img
