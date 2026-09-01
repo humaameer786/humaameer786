@@ -35,6 +35,8 @@
   </a>
 </p>
 
+<br>
+
 <p align="center">
   - - - - - - - - ✦ ☾ 🐈‍⬛ ☾ ✦ - - - - - - - -
 </p>
@@ -47,7 +49,7 @@ My main interests are **web & API security, penetration testing, security analys
 
 I'm also learning **Active Directory and IT support fundamentals** because I'm pretty realistic about where careers start, and I want a strong understanding of the systems I'll eventually be helping secure.
 
-And yes, I still really like cheesecake :3
+And I really like cheesecake :3
 
 <p align="center">
   - - - - - - - - ✦ ☾ 🐈‍⬛ ☾ ✦ - - - - - - - -
