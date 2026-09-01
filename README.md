@@ -56,66 +56,100 @@ And yes, I still really like cheesecake :3
 <tr>
 <td width="50%" valign="top">
 
-#### 🔎 Web & API Penetration Test
+<strong>🔎 Web & API Penetration Test</strong>
+
+<br><br>
 
 External black-box security assessment involving client-side JavaScript analysis, API mapping, HMAC-SHA256 request signing, WAF testing, and remediation reporting.
 
-**Highlights**
-- 20+ subdomains mapped
-- 50+ backend API routes identified
-- Reproduced client-side request signing
+<br><br>
 
-[→ View case study](https://github.com/humaameer786/web-api-penetration-test-case-study)
+<strong>Highlights</strong>
+<ul>
+  <li>20+ subdomains mapped</li>
+  <li>50+ backend API routes identified</li>
+  <li>Reproduced client-side request signing</li>
+</ul>
+
+<a href="https://github.com/humaameer786/web-api-penetration-test-case-study">→ View case study</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-#### 🔐 Credential Leak Scanner
+<strong>🔐 Credential Leak Scanner</strong>
+
+<br><br>
 
 Two-developer Python DevSecOps project for detecting secrets before they reach version control.
 
-**My part**
-- Detection engine
-- Regex + Shannon entropy
-- False-positive filtering
-- Recursive repository scanning
-- 27 detection-engine tests
+<br><br>
 
-[→ View project](https://github.com/haseeb2006-bit/credential-leak-scanner)
+<strong>My contribution</strong>
+<ul>
+  <li>Detection engine</li>
+  <li>Regex-based secret detection</li>
+  <li>Shannon entropy analysis</li>
+  <li>False-positive reduction</li>
+  <li>27 detection-engine tests</li>
+</ul>
+
+<a href="https://github.com/haseeb2006-bit/credential-leak-scanner">→ View project</a>
 
 </td>
 </tr>
+</table>
 
+<br>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-#### ⚙️ Security Automation Modules
+<strong>⚙️ Security Automation Modules</strong>
 
-A growing collection of Python security exercises I'm building before creating my full automation pipeline.
+<br><br>
 
-So far I've worked with:
-- Authentication-log analysis
-- Credential-stuffing detection
-- Event correlation
-- SQLite
-- VirusTotal threat intelligence
+Hands-on Python security modules I'm building before combining the concepts into a full security automation pipeline.
 
-[→ View project](https://github.com/humaameer786/security-automation-learning)
+<br><br>
+
+<strong>6 completed modules so far</strong>
+<ul>
+  <li>Authentication-log analysis</li>
+  <li>Credential-stuffing detection</li>
+  <li>Multi-source event correlation</li>
+  <li>SQLite event storage</li>
+  <li>VirusTotal threat intelligence</li>
+</ul>
+
+Currently working with <strong>PostgreSQL and JSONB</strong>.
+
+<br><br>
+
+<a href="https://github.com/humaameer786/security-automation-learning">→ View project</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-#### 🛡️ Cybersecurity Internship Projects
+<strong>🛡️ Cybersecurity Internship Projects</strong>
 
-Three structured security tasks covering:
+<br><br>
 
-- Passive vulnerability assessment
-- Phishing email analysis
-- API security risk analysis
+Three structured cybersecurity tasks covering:
+
+<ul>
+  <li>Passive vulnerability assessment</li>
+  <li>Phishing email analysis</li>
+  <li>API security risk analysis</li>
+</ul>
 
 Each includes evidence, findings, risk classification, and reporting.
 
-[→ View repositories](https://github.com/humaameer786?tab=repositories)
+<br><br>
+
+<a href="https://github.com/humaameer786?tab=repositories">→ View repositories</a>
 
 </td>
 </tr>
