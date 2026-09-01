@@ -139,6 +139,8 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
   <img src="https://img.shields.io/badge/JSONB-D9B46C?style=flat-square" alt="JSONB" />
 </p>
 
+<br>
+
 <p align="center">
   - - - - - - - - ✦ ☾ 🐈‍⬛ ☾ ✦ - - - - - - - -
 </p>
