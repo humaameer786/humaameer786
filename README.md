@@ -6,7 +6,12 @@
   />
 </p>
 
-<h1 align="center">Hello! I'm Huma 👋</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Sacramento&weight=600&size=42&pause=999999&color=D98CB5&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hello!+I'm+Huma+%F0%9F%91%8B"
+    alt="Hello! I'm Huma 👋"
+  />
+</p>
 
 <p align="center">
   <img
@@ -128,17 +133,13 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
 
 ---
 
-### 📈 github activity
+### ☾ current quest
+
+> learning the systems side of IT, building security tools, and slowly collecting enough knowledge to become dangerous to badly configured infrastructure :3
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=humaameer786&bg_color=00000000&color=d98cb5&line=d98cb5&point=e3b341&area=true&hide_border=true"
-    alt="Huma's GitHub activity graph"
-  />
+  ⋆｡°✩ ☾ ✩°｡⋆
 </p>
-
----
 
 <p align="center">
   <i>still learning, still building 🌱</i>
