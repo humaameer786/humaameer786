@@ -35,7 +35,7 @@
   </a>
 </p>
 
----
+<p align="center">✦ ☾ 🐈‍⬛ ☾ ✦</p>
 
 ### 🌷 about me
 
@@ -47,7 +47,7 @@ I'm also learning **Active Directory and IT support fundamentals** because I'm p
 
 And yes, I still really like cheesecake :3
 
----
+<p align="center">✦ ☾ 🐈‍⬛ ☾ ✦</p>
 
 ### 🧩 what I'm working on
 
@@ -56,7 +56,7 @@ And yes, I still really like cheesecake :3
 - 🖥️ Learning **Active Directory, Group Policy, Windows administration, and IT troubleshooting**
 - 🌐 Improving my practical **web/API security testing** through projects and structured assessments
 
----
+<p align="center">✦ ☾ 🐈‍⬛ ☾ ✦</p>
 
 ### ✦ featured projects
 
@@ -106,7 +106,7 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
 
 [View my repositories →](https://github.com/humaameer786?tab=repositories)
 
----
+<p align="center">✦ ☾ 🐈‍⬛ ☾ ✦</p>
 
 ### 🛠️ tools & technologies
 
@@ -131,7 +131,7 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
   <img src="https://img.shields.io/badge/JSONB-D9B46C?style=flat-square" alt="JSONB" />
 </p>
 
----
+<p align="center">✦ ☾ 🐈‍⬛ ☾ ✦</p>
 
 ### ☾ current quest
 
