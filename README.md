@@ -117,7 +117,7 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
   ✦ <strong>Python</strong>　☾ <strong>Linux</strong>　✧ <strong>Bash</strong>　⋆ <strong>MySQL</strong>　☾ <strong>SQLite</strong><br>
   ✦ <strong>OWASP ZAP</strong>　☾ <strong>Nmap</strong>　✧ <strong>Postman</strong>　⋆ <strong>VirusTotal</strong>　☾ <strong>OSINT</strong><br>
   ✦ <strong>Git/GitHub</strong>　☾ <strong>BurpSuite</strong>　✧ <strong>REST APIs</strong>　⋆ <strong>JSON</strong>　☾ <strong>Docker</strong><br>
-  ✦ <strong>Pandas</strong>　☾ <strong>Regex</strong>　✧ <strong>Powershell</strong>　⋆ <strong>Wazuh</strong>  ☾ <strong>VirtualBox</strong>
+  ✦ <strong>Pandas</strong>　☾ <strong>Regex</strong>　✧ <strong>Powershell</strong>　⋆ <strong>Wazuh</strong>   ☾ <strong>VirtualBox</strong>
 </p>
 
 #### 🌱 currently learning
