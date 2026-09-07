@@ -36,9 +36,7 @@
 
 I'm a BSc Cybersecurity student who likes understanding how systems work, finding where things can go wrong, and figuring out how to make them safer.
 
-My main interests are **web & API security, penetration testing, security analysis, DevSecOps, IT administration and security automation using Python**.
-
-I'm also learning **Active Directory and IT support fundamentals** because I'm pretty realistic about where careers start, and I want a strong understanding of the systems I'll eventually be helping secure.
+My main interests are **Application Security (AppSec), penetration testing, Python-based security automation, threat detection & event correlation, and Windows/Active Directory administration.**.
 
 And I really like cheesecake :3
 
