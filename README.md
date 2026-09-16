@@ -96,10 +96,10 @@ A two-developer Python DevSecOps project for detecting accidentally exposed cred
 
 Hands-on Python security modules I'm building before combining the concepts into a full security automation pipeline.
 
-🐍 **7 completed modules** so far
-🔎 Worked with credential-stuffing detection, multi-source event correlation, SQLite, VirusTotal threat intelligence, and PostgreSQL
-🗄️ Built a PostgreSQL enrichment layer using **JSONB, INET, parameterized SQL, transactions, least-privilege roles, and UPSERT logic**
-♻️ Added reusable threat-intelligence storage so previous IP enrichment results can be queried and reused
+🐍 **7 completed modules** so far\
+🔎 Worked with credential-stuffing detection, multi-source event correlation, SQLite, VirusTotal threat intelligence, and PostgreSQL\
+🗄️ Built a PostgreSQL enrichment layer using **JSONB, INET, parameterized SQL, transactions, least-privilege roles, and UPSERT logic**\
+♻️ Added reusable threat-intelligence storage so previous IP enrichment results can be queried and reused\
 🐳 Next: **Dockerizing a Python security tool**
 
 [View project →](https://github.com/humaameer786/learning-security-automation)
