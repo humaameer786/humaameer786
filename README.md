@@ -48,10 +48,7 @@ And I really like cheesecake :3
 
 ### 🧩 what I'm working on
 
-- 🔐 Building and testing the detection engine for a collaborative **Git Secret & Credential Leak Scanner**
-- 🐍 Developing individual **security automation modules** in Python before combining them into a larger automation pipeline
-- 🖥️ Learning **Active Directory, Group Policy, Windows administration, and IT troubleshooting**
-- 🌐 Improving my practical **web/API security testing** through projects and structured assessments
+- 🖥️ Extending my **Active Directory HomeLab into AD security**, including Windows auditing, authentication monitoring, privilege relationships, and defensive investigation
 
 <br>
 
@@ -60,6 +57,18 @@ And I really like cheesecake :3
 </p>
 
 ### ✦ featured projects
+
+#### 🖥️ Active Directory HomeLab
+
+A hands-on Windows domain environment built from scratch to practise identity administration, network services, access control, policy enforcement, and structured IT troubleshooting.
+
+🪟 Deployed a **Windows Server 2022 Domain Controller** for `hoomaverse.test` with AD DS, AD-integrated DNS, Global Catalog, Windows DHCP, structured OUs/security groups, and Windows 10 domain authentication  
+🔐 Implemented **computer/user Group Policy and group-based SMB/NTFS access control**, testing policy targeting, authorized vs unauthorized access, security-group membership, and permission behaviour  
+🧰 Reproduced, investigated, and resolved **5 Active Directory support incidents** through Jira Service Management using PowerShell, `gpresult`, DNS/service checks, and end-to-end verification across account, DNS, file-access, and GPO failures
+
+[View project →](https://github.com/humaameer786/active-directory-homelab)
+
+<p align="center">⋆｡°✩ ☾ ✩°｡⋆</p>
 
 #### 🔎 Web & API Penetration Test
 
@@ -89,11 +98,13 @@ A two-developer Python DevSecOps project for detecting accidentally exposed cred
 
 Hands-on Python security modules I'm building before combining the concepts into a full security automation pipeline.
 
-🐍 **6 completed modules** so far  
-🔎 Worked with credential-stuffing detection, multi-source event correlation, SQLite, and VirusTotal threat intelligence  
-🗄️ Currently learning **PostgreSQL and JSONB**
+🐍 **7 completed modules** so far
+🔎 Worked with credential-stuffing detection, multi-source event correlation, SQLite, VirusTotal threat intelligence, and PostgreSQL
+🗄️ Built a PostgreSQL enrichment layer using **JSONB, INET, parameterized SQL, transactions, least-privilege roles, and UPSERT logic**
+♻️ Added reusable threat-intelligence storage so previous IP enrichment results can be queried and reused
+🐳 Next: **Dockerizing a Python security tool**
 
-[View project →](https://github.com/humaameer786/security-automation-learning)
+[View project →](https://github.com/humaameer786/learning-security-automation)
 
 <p align="center">⋆｡°✩ ☾ ✩°｡⋆</p>
 
@@ -114,16 +125,18 @@ Three structured cybersecurity tasks covering passive vulnerability assessment, 
 ### 🛠️ tools & technologies
 
 <p align="center">
-  ✦ <strong>Python</strong>　☾ <strong>Linux</strong>　✧ <strong>Bash</strong>　⋆ <strong>MySQL</strong>　☾ <strong>SQLite</strong><br>
-  ✦ <strong>OWASP ZAP</strong>　☾ <strong>Nmap</strong>　✧ <strong>Postman</strong>　⋆ <strong>VirusTotal</strong>　☾ <strong>OSINT</strong><br>
-  ✦ <strong>Git/GitHub</strong>　☾ <strong>BurpSuite</strong>　✧ <strong>REST APIs</strong>　⋆ <strong>JSON</strong>　☾ <strong>Docker</strong><br>
+  ✦ <strong>Python</strong>　☾ <strong>Kali Linux</strong>　✧ <strong>Bash</strong>　⋆ <strong>MySQL</strong>　☾ <strong>SQLite</strong><br>
+  ✦ <strong>OWASP ZAP/BurpSuite</strong>　☾ <strong>Nmap</strong>　✧ <strong>Postman</strong>　⋆ <strong>VirusTotal</strong>　☾ <strong>OSINT</strong><br>
+  ✦ <strong>Wireshark</strong>　☾ <strong>IAM</strong>　✧ <strong>REST APIs</strong>　⋆ <strong>JSON</strong>　☾ <strong>Docker</strong><br>
   ✦ <strong>Pandas</strong>　☾ <strong>Regex</strong>　✧ <strong>Powershell</strong>　⋆ <strong>Wazuh</strong>　☾ <strong>Virtual Machines</strong><br>
+  ✦ <strong>Active Directory</strong>　☾ <strong>Group Policy</strong>　⋆ <strong>PostgreSQL</strong>　☾ <strong>Jira Service Management</strong>
 </p>
 
 #### 🌱 currently learning
 
 <p align="center">
-  ☾ Active Directory　✦ Group Policy　⋆ PostgreSQL　✧ JSONB
+  ☾ Active Directory Security　✦ Kerberos & LDAP　⋆ BloodHound　✧ Windows LAPS<br>
+  ☾ SIEM & Windows Event Auditing　
 </p>
 
 <br>
